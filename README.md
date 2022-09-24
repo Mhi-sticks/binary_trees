@@ -1,2 +1,1 @@
-# Binary Trees
-## ALX Project on Binary Trees
+C - Binary trees
